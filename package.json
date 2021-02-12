@@ -1,0 +1,23 @@
+{
+  "name": "circleci",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/csiszaralex/CircleCI.git"
+  },
+  "keywords": [],
+  "author": "Csiszár Alex <csiszaralex@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/csiszaralex/CircleCI/issues"
+  },
+  "homepage": "https://github.com/csiszaralex/CircleCI#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
